@@ -1,0 +1,644 @@
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\csc.exe
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\csc.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\csc.rsp
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\csi.exe
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\csi.rsp
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\System.AppContext.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\vbc.exe
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\vbc.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\vbc.rsp
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsApp.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+c:\users\kurt.friedrich\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csc.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csi.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\ProductsApp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\ProductsApp.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\System.Web.Http.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\System.Web.Http.xml
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog422-fall-17\5-ASP-API\ProductsApp4vs\ProductsApp-V1-perArt\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csc.exe
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csi.exe
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\ProductsApp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\ProductsApp.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\System.Web.Http.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\System.Web.Http.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\1-ProductsApp-V1-perArt\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\csc.exe
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\csi.exe
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\Antlr3.Runtime.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Helpers.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Mvc.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Optimization.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Razor.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.WebPages.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\WebGrease.dll
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\Antlr3.Runtime.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Helpers.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Mvc.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Optimization.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Razor.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.WebPages.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\kurt.friedrich\Desktop\AAA-ISIT-420winter18\5-ASP-MVCandEF\3-ASPAPI\5-ASP-API\ProductsApp-v1-v4\2-NotessApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\csc.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\csi.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\Antlr3.Runtime.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\EntityFramework.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Helpers.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Mvc.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Optimization.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Razor.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.WebPages.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\WebGrease.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\Antlr3.Runtime.pdb
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\EntityFramework.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Helpers.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Mvc.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Optimization.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Razor.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.WebPages.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\2NotesApp\2NotesApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\csc.exe
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\csi.exe
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\Antlr3.Runtime.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\EntityFramework.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Helpers.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Mvc.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Optimization.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Razor.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.WebPages.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\WebGrease.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\Antlr3.Runtime.pdb
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\EntityFramework.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Helpers.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Mvc.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Optimization.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Razor.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.WebPages.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\2NotesAppPart1jQM\2NotesApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csc.exe
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csi.exe
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\Antlr3.Runtime.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\EntityFramework.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Helpers.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Http.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Mvc.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Optimization.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Razor.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\WebGrease.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\Antlr3.Runtime.pdb
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\EntityFramework.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Helpers.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Mvc.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Optimization.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Razor.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Http.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\Notes-R-W-D-jQ\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csc.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csi.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\Antlr3.Runtime.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\EntityFramework.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Helpers.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Http.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Mvc.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Optimization.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Razor.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\WebGrease.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\Antlr3.Runtime.pdb
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\EntityFramework.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Helpers.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Mvc.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Optimization.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Razor.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Http.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-R-W-D-jQ\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csc.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csi.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\ProductsApp.pdb
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\Antlr3.Runtime.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\EntityFramework.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Helpers.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Http.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Mvc.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Optimization.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Razor.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\WebGrease.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\Antlr3.Runtime.pdb
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\EntityFramework.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Helpers.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Mvc.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Optimization.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Razor.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Http.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\kurt.friedrich\Downloads\ASP API\Notes-jQMnoDel-Add\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csc.exe
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csi.exe
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\ProductsApp.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\ProductsApp.pdb
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\Antlr3.Runtime.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\EntityFramework.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\EntityFramework.SqlServer.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Helpers.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Http.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Mvc.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Optimization.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Razor.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\WebGrease.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\Antlr3.Runtime.pdb
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\EntityFramework.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\EntityFramework.SqlServer.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Helpers.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Mvc.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Optimization.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Razor.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Http.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\etsun\Downloads\NotesCD\Notes-jQMnoDel-Add\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\csc.exe
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\csi.exe
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\ProductsApp.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\ProductsApp.pdb
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\Antlr3.Runtime.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\EntityFramework.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\EntityFramework.SqlServer.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Helpers.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Http.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Mvc.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Optimization.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Razor.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.WebPages.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\WebGrease.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\Antlr3.Runtime.pdb
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\EntityFramework.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\EntityFramework.SqlServer.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Helpers.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Mvc.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Optimization.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Razor.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.WebPages.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Http.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\etsun\source\repos\NotesLocal\NotesLocal\ProductsApp\obj\Debug\ProductsApp.pdb
