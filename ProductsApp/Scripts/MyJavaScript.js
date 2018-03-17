@@ -1,127 +1,67 @@
-﻿var uri = 'api/notes';
-
-//$(document).ready(function () {
-//    // Send an AJAX request
-//    refreshNoteList();
-//});
-
-//function formatItem(item) {
-//    return item.Priority + ">" + item.Subject + ":  " + item.Details;
-//}
-
-function refreshNoteList() {
-    $.getJSON(uri)
-        .done(function (data) {
-            // On success, 'data' contains a list of products.
-            $.each(data, function (key, item) {
-                // Add a list item for the product.
-                // Change the way to format the string(Sunny)
-                $('#notes').append('<li><a data-transition="pop" data-parm=' + item.Id + ' href="#details-page"><div hidden>' + item.Priority + '</div>' + item.Subject + '</a></li>');
-                // Listview refresh after each inner loop(Sunny)
-                $("#notes").listview("refresh");
-            });
-        });
-};
-
-function clearResponse() {
-    $('#deleteResponse').text("");
-    $('#saveResponse').text("");
-};
-
-function find() {
-    clearResponse()
-    var id = $('#noteId').val();
-    $.getJSON(uri + '/' + id)
-        .done(function (data) {
-            $('#note').text(formatItem(data));
-        })
-        .fail(function (jqXHR, textStatus, err) {
-            $('#note').text('Error: ' + err);
-        });
-};
-
-function deleteNote() {
-    clearResponse()
-    var id = $('#deleteNote').val();
-    $.ajax({
-        url: uri + "/" + id,
-        type: "DELETE",
-        contentType: "application/json",
-        success: function () {
-            $("#notes").empty();
-            refreshNoteList();
-            $('#deleteResponse').text("Success: Note Deleted");
-            $("#deleteNote").val('');    
-        },
-        error: function () {
-            $('#deleteResponse').text("Error: Delete Failed");
-        }
-    });
-};
-
-function saveNote() {
-    clearResponse()
-    var note = {
-        subject: $('#Subject').val(),
-        details: $('#Details').val(),
-        priority: $('#Priority').val()
-    };
-
-    $.ajax({
-        url: uri + "/notes",
-        type: "POST",
-        contentType: "application/json",
-        data: JSON.stringify(note),
-        success: function (data) {
-            //self.notes.push(data);
-            $("#notes").empty();
-            refreshNoteList();
-            $('#saveResponse').text("Success: Saved Note");
-            $("#Subject").val('');
-            $("#Details").val('');    
-            $("#Priority").val('');    
-        },
-        error: function () {
-            $('#saveResponse').text("Error: Save Failed");
-        }
-    });
-};
-
-//Added a page init for the adding the notes to the page
-$(document).on('pageinit', '#pageone', function () {
-    refreshNoteList();
-});
-
-
-
-$(document).on('pagebeforeshow', '#pageone', function () {
-    //changed the onclick event. It used to look like $('a').on("click", function).......
-    $(document).on("click", 'a', function (event) {     
-        var parm = $(this).attr("data-parm");  //Get the para from the attribute in the <a> tag
-        $("#detailParmHere").html(parm); //set the hidden <p> to the parm
-    });
-});
-
-$(document).on('pagebeforeshow', '#delete-page', function () {
-
-});
-
-$(document).on('pagebeforeshow', '#details-page', function () {
-    var Priority;
-    var Subject;
-    var Details;
-    var id = $('#detailParmHere').text();
-    $.getJSON(uri)  //get the notes again, 
-        .done(function (data) {
-            $.each(data, function (index, record) {
-                if (id == record.Id) {//then search threw them to find the matching id
-                    Priority = "Priority: " + record.Priority;
-                    Subject = " Subject: " + record.Subject;
-                    Details = " Details: " + record.Details;
-                    $('#showdata').text(Priority).append('<br />');; //display to details page
-                    $('#showdata').append(Subject).append('<br />');;
-                    $('#showdata').append(Details);
+﻿
+var ctx1 = document.getElementById("Chart1").getContext('2d');
+var Chart1 = new Chart(ctx1, {
+    type: 'bar',
+    data: {
+        labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+        datasets: [{
+            label: '# of Votes',
+            data: [12, 19, 3, 5, 2, 3],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255,99,132,1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
                 }
-            });
-        });
+            }]
+        }
+    }
+});
+
+var ctx2 = document.getElementById("Chart2").getContext('2d');
+var Chart2 = new Chart(ctx2, {
+    type: 'line',
+    data: [{
+        x: 10,
+        y: 20
+    }, {
+        x: 15,
+        y: 10
+    }],
+    //options: options
+});
+
+var ctx3 = document.getElementById("Chart3").getContext('2d');
+var Chart3 = new Chart(ctx3, {
+    type: 'pie',
+    data:  {
+        datasets: [{
+            data: [10, 20, 30]
+        }],
+
+        labels: [
+            'Red',
+            'Yellow',
+            'Blue'
+        ],
+    }
 });

@@ -1,105 +1,55 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Note App</title>
-    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
-    <script type="text/javascript" src="Scripts/MyJavaScript.js"></script>
-    
-    <link rel="stylesheet" type="text/css" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
-    <link rel="stylesheet" href="css/themes/notes-theme.css" />
-    <link rel="stylesheet" href="css/themes/jquery.mobile.icons.min.css" />
-    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <title>Data Analysis - Team Rainier</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 
 </head>
 
 <body>
-    <div data-role="page" id="pageone">
-        <div data-role="header" data-theme='a'>
-            <h1>Notes Mobile APP</h1>
+
+    <div class="card text-center">
+        <div class="card-header">
+            Data Analysis - Team Rainier
         </div>
-        <div data-role="content" data-theme='a'>
-            <div>
-                <h2>All Notes</h2>
-                <ul data-role="listview" data-autodividers="true" data-theme="a" id="notes" data-filter="true" data-filter-placeholder="Search" data-inset="true"></ul>
-            </div>
-            <!--<div>
-                <h2>Search by note Subject</h2>
-                <input type="text" id="noteId" size="5" />
-                <input type="button" value="Search" onclick="find();" />
-                <p id="note" />
-            </div>-->
-            <div>
-                <a style="text-decoration:none" data-transition="fade" href="#add-page" data-theme="b">
-                    <input data-theme="b" type="button" href="#add-page" value="Add Note" />
-                </a>
-            </div>
-            <div>
-                <a style="text-decoration:none" data-transition="flip" href="#delete-page" data-theme="c">
-                    <input data-theme="c" type="button" href="#delete-page" value="Delete Note" />
-                </a>
+        <div class="card-body">
+            <div class="container">
+                <div class="row mt-3">
+                    <div class="nav flex-column nav-pills col-lg-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        <a class="nav-link active" id="v-pills-q1-tab" data-toggle="pill" href="#v-pills-q1" role="tab" aria-controls="v-pills-q1" aria-selected="true">Query1</a>
+                        <a class="nav-link" id="v-pills-q2-tab" data-toggle="pill" href="#v-pills-q2" role="tab" aria-controls="v-pills-q2" aria-selected="false">Query2</a>
+                        <a class="nav-link" id="v-pills-q3-tab" data-toggle="pill" href="#v-pills-q3" role="tab" aria-controls="v-pills-q3" aria-selected="false">Query3</a>
+                        <a class="nav-link" id="v-pills-q4-tab" data-toggle="pill" href="#v-pills-q4" role="tab" aria-controls="v-pills-q4" aria-selected="false">Query4</a>
+                        <a class="nav-link" id="v-pills-q5-tab" data-toggle="pill" href="#v-pills-q5" role="tab" aria-controls="v-pills-q5" aria-selected="false">Query5</a>
+                        <a class="nav-link" id="v-pills-q6-tab" data-toggle="pill" href="#v-pills-q6" role="tab" aria-controls="v-pills-q6" aria-selected="false">Query6</a>
+                        <a class="nav-link" id="v-pills-q7-tab" data-toggle="pill" href="#v-pills-q7" role="tab" aria-controls="v-pills-q7" aria-selected="false">Query7</a>
+                        <a class="nav-link" id="v-pills-q8-tab" data-toggle="pill" href="#v-pills-q8" role="tab" aria-controls="v-pills-q8" aria-selected="false">Query8</a>
+                    </div>
+                    <div class="tab-content col-lg-9" id="v-pills-tabContent" data-role="content">
+                        <div class="tab-pane fade show active" id="v-pills-q1" role="tabpanel" aria-labelledby="v-pills-q1-tab"><p>How many of the top 10(score) titles are PC games?</p><canvas id="Chart1" width="400" height="200"></canvas></div>
+                        <div class="tab-pane fade" id="v-pills-q2" role="tabpanel" aria-labelledby="v-pills-q2-tab"><p>What are the platform(s) for the 5 top selling games in each area?</p><canvas id="Chart2" width="400" height="200"></canvas></div>
+                        <div class="tab-pane fade" id="v-pills-q3" role="tabpanel" aria-labelledby="v-pills-q3-tab"><p>What are the top selling game publishers in NA?</p><canvas id="Chart3" width="400" height="200"></canvas></div>
+                        <div class="tab-pane fade" id="v-pills-q4" role="tabpanel" aria-labelledby="v-pills-q4-tab"><p>Of Top 10 games in NA What were their Metacritic ratings vs ign ratings?</p></div>
+                        <div class="tab-pane fade" id="v-pills-q5" role="tabpanel" aria-labelledby="v-pills-q5-tab"><p>How many of the top 10 (# sold) titles are Valve games?</p></div>
+                        <div class="tab-pane fade" id="v-pills-q6" role="tabpanel" aria-labelledby="v-pills-q6-tab"><p>What genre has sold the most copies?</p></div>
+                        <div class="tab-pane fade" id="v-pills-q7" role="tabpanel" aria-labelledby="v-pills-q7-tab"><p>What are the top 10 total sold copies per game released in 2016?</p></div>
+                        <div class="tab-pane fade" id="v-pills-q8" role="tabpanel" aria-labelledby="v-pills-q8-tab"><p>What is the most popular genre sold?</p></div>
+                    </div>
+                </div>
             </div>
         </div>
-        <div data-role="footer" data-theme='a'>
-            <h1>&copy; Sunny Wu 2018</h1>
+        <div class="card-footer text-muted">
+            (C)Team Rainier 2018.
         </div>
     </div>
 
-    <!--DELETE PAGE-->
-    <div data-role="page" id="delete-page">
-        <div data-role="header" data-theme='c'>
-            <a href="#pageone" class="ui-btn-left" data-transition="flip" data-theme="c">Back</a>
-            <h1>Notes Mobile APP</h1>
-        </div>
-        <div data-role="content" data-theme="c">
-                <h2>Delete a note by Subject</h2>
-                <input type="text" id="deleteNote" size="5" />
-                <input type="button" value="Delete" onclick="deleteNote();" />
-                <p id="deleteResponse" />
-        </div>
-        <div data-role="footer" data-theme='c'>
-            <h1>&copy; Sunny Wu 2018</h1>
-        </div>
-    </div>
-
-    <!--ADD PAGE-->
-    <div data-role="page" id="add-page">
-        <div data-role="header" data-theme='c'>
-            <a href="#pageone" class="ui-btn-left" data-transition="fade" data-theme="b">Back</a>
-            <h1>Notes Mobile APP</h1>
-        </div>
-        <div data-role="content" data-theme="c">
-            <div>
-                <h2>Add a note</h2>
-                Subject:<input type="text" id="Subject" size="5" /> <br /><br />
-                Details:<input type="text" id="Details" size="5" /> <br /><br />
-                Priority:<input type="text" id="Priority" size="5" /> <br /><br />
-                <input type="button" value="Add" onclick="saveNote();" />
-                <p id="saveResponse" />
-            </div>
-        </div>
-        <div data-role="footer" data-theme='c'>
-            <h1>&copy; Sunny Wu 2018</h1>
-        </div>
-    </div>
-
-    <!--DETAILS PAGE-->
-    <div data-role="page" id="details-page">
-        <div data-role="header" data-theme="a">
-            <h1>Details</h1>
-            <a href="#pageone" class="ui-btn-left" data-transition="pop">Back</a>
-        </div>
-
-        <div data-role="content" data-theme="a">
-
-            <p id="detailParmHere" hidden>change1</p>
-            <p id="showdata">change2</p>
-        </div>
-
-        <div data-role="footer" data-theme='a'>
-            <h1>&copy; Sunny Wu 2018</h1>
-        </div>
-
-    </div>
+    <script type="text/javascript" src="Scripts/MyJavaScript.js"></script>
 
 </body>
 </html>

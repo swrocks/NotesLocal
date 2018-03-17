@@ -10,8 +10,6 @@ namespace ProductsApp.Controllers
 {
     public class NotesController : ApiController
     {
-
-
         NotesDBEntities myDB = new NotesDBEntities();
         public IEnumerable<Note> GetAllNotes()
         {
@@ -30,45 +28,5 @@ namespace ProductsApp.Controllers
             return Ok(note);
         }
 
-        [HttpPost]
-        public IHttpActionResult Save(Note newNote)
-        {
-            myDB.Notes.Add(newNote);
-            myDB.SaveChanges();
-            return Ok();
-
-        }
-
-        [HttpDelete]
-        public HttpResponseMessage Delete(string id)
-        {
-            bool found = true;
-            string subject = id;
-
-            // Remove the entity from the entity collection  
-            Note note = myDB.Notes.FirstOrDefault((p) => p.Subject == subject);
-            if (note != null)
-            {
-                myDB.Notes.Remove(note);
-                myDB.SaveChanges();
-            }
-            else
-            {
-                found = false;
-            }
-
-            HttpResponseMessage response = new HttpResponseMessage();
-            if (!found)
-            {
-                response.StatusCode = HttpStatusCode.BadRequest;
-                return response;
-            }
-            else
-            {
-                response.StatusCode = HttpStatusCode.OK;
-                return response;
-            }
-        }
     }
-   
 }
